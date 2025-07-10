@@ -83,7 +83,6 @@ These Contao bundles are useful for anyone in the community:
 We love feedback, contributions, and collaborations from the community!  
 Feel free to open issues, submit pull requests, or reach out with suggestions.
 
-- [Open an issue](https://github.com/heimrichhannot/heimrichhannot/issues)
 - [Browse our repositories](https://github.com/heimrichhannot?tab=repositories)
 
 ---
