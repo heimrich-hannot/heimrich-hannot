@@ -37,6 +37,11 @@ These Contao bundles are useful for anyone in the community:
   ![Release](https://img.shields.io/github/v/release/heimrichhannot/contao-form-type-bundle)
   ![Packagist Downloads](https://img.shields.io/packagist/dt/heimrichhannot/contao-form-type-bundle)
 
+- [**contao-media-library-bundle**](https://github.com/heimrichhannot/contao-media-library-bundle)  
+  Media libraries for your users.
+  ![Release](https://img.shields.io/github/v/release/heimrichhannot/contao-media-library-bundle)
+  ![Packagist Downloads](https://img.shields.io/packagist/dt/heimrichhannot/contao-media-library-bundle)
+
 - [**contao-member-listing-bundle**](https://github.com/heimrichhannot/contao-member-listing-bundle)  
   Easily list and manage members in Contao.
   ![Release](https://img.shields.io/github/v/release/heimrichhannot/contao-member-listing-bundle)
